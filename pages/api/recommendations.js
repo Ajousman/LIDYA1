@@ -10,8 +10,8 @@ const recommendationCard = [
   },
   {
     id: 1,
-    name: 'Lidya Nredin',
-    image: "images/lid.jpg",
+    name: 'Lidya Nuredin',
+    image: "images/lid.JPG",
     designation: 'Data Scientist | Laravel | Django Developer',
     view: "I had the pleasure of collaborating with Abdu on multiple campus projects as a full-stack developer. His expertise in MongoDB, Express.js, React, and Node.js was invaluable in building scalable and efficient web applications. Abdu consistently delivered clean, well-structured code and demonstrated strong problem-solving skills in API integration and database management. His ability to work seamlessly in a team while meeting tight deadlines made him a reliable partner. I highly recommend Abdu for any full-stack development role.",
     linkednURL: "https://www.linkedin.com/in/Lidya-Nuredint-381407179/"
