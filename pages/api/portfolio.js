@@ -3,7 +3,7 @@ const portfolio = [
         id: 0,
         projectName: "Web app",
         url: "https://jmmerp.com/",
-        image: "projects/Farm2.jpg",
+        image: "images/Farm2.jpg",
         projectDetail: "This online marketplace directly connects Ethiopian farmers with global consumers for fair-trade agricultural products.",
         technologiesUsed: [
             {
